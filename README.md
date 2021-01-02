@@ -1,4 +1,6 @@
 # Linux_MyShell
+다양한 system call 을 사용하여 만든 나만의 shell 프로그램 ( Linux/Unix )
+
 System Programming - My own Shell Program made using various system calls in Linux/Unix
 
 
